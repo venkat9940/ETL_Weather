@@ -1,5 +1,6 @@
 .git
 .env
+.astro
 .DS_Store
 airflow_settings.yaml
 __pycache__/
